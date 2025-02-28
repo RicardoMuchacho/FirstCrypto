@@ -15,14 +15,14 @@ Fixed Price Token Purchase: Users can buy tokens at a fixed price in Ethereum (E
 - **Symbol:** 1CRYPTO
 - **Standard:** ERC20
 - **Blockchain:** Ethereum (Sepolia Testnet)
-- **Contract Address:** [0x447c5b0575092fb2287a8f756546dfff9993d3b0](https://sepolia.etherscan.io/token/0x447c5b0575092fb2287a8f756546dfff9993d3b0)
+- **Contract Address:** [0x447c5b0575092fb2287a8f756546dfff9993d3b0](https://sepolia.etherscan.io/token/0x447c5b0575092fb2287a8f756546dfff9993d3b0){:target="_blank"}
 
 ## RMCrypto Details
 - **Token Name:** RickM Crypto (RMCrypto)
 - **Symbol:** RM
 - **Standard:** ERC20
 - **Blockchain:** Ethereum (Sepolia Testnet)
-- **Contract Address:** [0xA3F2Be3A16fbcb3b2aBA9CCcd0D28197347aec24](https://sepolia.etherscan.io/token/0xA3F2Be3A16fbcb3b2aBA9CCcd0D28197347aec24)
+- **Contract Address:** [0xA3F2Be3A16fbcb3b2aBA9CCcd0D28197347aec24](https://sepolia.etherscan.io/token/0xA3F2Be3A16fbcb3b2aBA9CCcd0D28197347aec24){:target="_blank"}
 
 ## Learning ERC20 & Solidity with OpenZeppelin
 This project leverages the **OpenZeppelin ERC20 package**, a widely-used library for creating secure and compliant ERC20 tokens. By using OpenZeppelin's contract implementation, developers can learn:
