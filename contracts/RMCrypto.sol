@@ -21,8 +21,8 @@ contract RMCrypto is ERC20, Ownable, ERC20Burnable {
     //events
 
     //external functions
-    function mintTokens(address to, uint256 amount) public onlyOwner virtual {
-        _mint(to, amount);
+    function mintTokens(uint256 amount) public onlyOwner virtual {
+        _mint(address(this), amount);
     }
 
     function burnTokens(uint256 amount) public onlyOwner virtual {
