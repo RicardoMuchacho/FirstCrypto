@@ -16,8 +16,7 @@ Fixed Price Token Purchase: Users can buy tokens at a fixed price in Ethereum (E
 - **Standard:** ERC20
 - **Blockchain:** Ethereum (Sepolia Testnet)
 - **Contract Address:** [0x447c5b0575092fb2287a8f756546dfff9993d3b0](https://sepolia.etherscan.io/token/0x447c5b0575092fb2287a8f756546dfff9993d3b0)
-
-
+<hr/>
 - **Token Name:** RickM Crypto (RMCrypto)
 - **Symbol:** RM
 - **Standard:** ERC20
